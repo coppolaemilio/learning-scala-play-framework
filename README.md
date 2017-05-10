@@ -1,1 +1,1 @@
-learning-scala-play-framework
+To run: `sbt run` and then visit http://localhost:9000

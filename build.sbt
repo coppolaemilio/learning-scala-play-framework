@@ -1,4 +1,4 @@
-name := """fileupload"""
+name := """pangea"""
 
 version := "1.0-SNAPSHOT"
 
